@@ -1,6 +1,6 @@
 <html>
 <body>
-  <title>ChíBảo</title>
+  <title></title>
   <style>
   div.a{
   text-align: center;
